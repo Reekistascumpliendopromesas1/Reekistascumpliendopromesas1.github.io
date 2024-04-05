@@ -96,3 +96,11 @@ li{
   .integrantes div img {
       width: 100%;
     }
+
+    .castor img{
+        width: 70%;
+    }
+.castor{
+    /* width: 70%; */
+    text-align: center;
+}
